@@ -2,6 +2,7 @@
 C++ 공부
 
 VS CODE 환경 설정
+
 0. VS CODE - C/C++ Extension 설치
 1. msys2 설치
 2. g++, gdb 설치
